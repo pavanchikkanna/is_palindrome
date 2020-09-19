@@ -1,0 +1,9 @@
+README.md
+setup.py
+is_palindrome/__init__.py
+is_palindrome/__main__.py
+is_palindrome.egg-info/PKG-INFO
+is_palindrome.egg-info/SOURCES.txt
+is_palindrome.egg-info/dependency_links.txt
+is_palindrome.egg-info/entry_points.txt
+is_palindrome.egg-info/top_level.txt

@@ -1,0 +1,3 @@
+[console_scripts]
+is_palindrome = is_palindrome.__main__:main
+

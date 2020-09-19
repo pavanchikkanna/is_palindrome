@@ -1,0 +1,39 @@
+Metadata-Version: 2.1
+Name: is-palindrome
+Version: 0.0.1
+Summary: A python module for checking palindrome property in a string 
+Home-page: https://github.com/pavanchikkanna/is_palindrome
+Author: Pavan R
+Author-email: pavanravikumar1998@gmail.com
+License: MIT
+Description: # is_palindrome
+        
+        It is a simple python module for checking the [palindrome](https://en.wikipedia.org/wiki/Palindrome) property in a string. 
+        
+        # Installation
+        
+        You can install is_palindrome from [PyPI](https://pypi.org/project/realpython-reader/)
+        ```python
+        pip install is_palindrome
+        ```
+        
+        # How to use
+        
+        It is a command line application just enter is_palindrome followed by a word in command prompt.
+        
+            $ is_palindrome aba
+            True
+        
+            $ is_palindrome pavan
+            False
+        
+            $ is_palindrome 
+            Empty String
+        
+        Thank you.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
