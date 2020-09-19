@@ -14,7 +14,7 @@ Description: # is_palindrome
         
         You can install is_palindrome from [PyPI](https://pypi.org/project/realpython-reader/)
         ```python
-        pip install is_palindrome
+        pip install is-palindrome
         ```
         
         # How to use

@@ -4,9 +4,9 @@ It is a simple python module for checking the [palindrome](https://en.wikipedia.
 
 # Installation
 
-You can install is_palindrome from [PyPI](https://pypi.org/project/realpython-reader/)
+You can install is_palindrome from [PyPI](https://pypi.org/project/is-palindrome/)
 ```python
-pip install is_palindrome
+pip install is-palindrome
 ```
 
 # How to use
